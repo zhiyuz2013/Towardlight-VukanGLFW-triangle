@@ -1,5 +1,9 @@
 # Vulkan Pyramid
 
+Please go visit:
+  https://github.com/zhiyuz2013/Towardlight-VukanGLFW-triangle
+for the source code.
+
 A small native C++ sample that draws a colored 3D pyramid using the Vulkan API.
 GLFW is used only to create the window and receive window events; rendering is
 performed entirely with Vulkan (there is no OpenGL renderer).
