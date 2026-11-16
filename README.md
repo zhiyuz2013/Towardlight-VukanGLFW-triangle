@@ -27,3 +27,5 @@ sudo apt install build-essential cmake libvulkan-dev libglfw3-dev libglm-dev gls
 Install a Vulkan driver for your GPU as well. For Mesa-based Intel/AMD GPUs,
 `mesa-vulkan-drivers` provides one; NVIDIA systems need the matching proprietary
 driver. `vulkan-tools` is optional but provides `vulkaninfo` for diagnostics.
+
+<img width="1861" height="1131" alt="image" src="https://github.com/user-attachments/assets/7706fbfe-2afb-4cd3-974c-8a973f39c937" />
