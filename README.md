@@ -29,3 +29,10 @@ Install a Vulkan driver for your GPU as well. For Mesa-based Intel/AMD GPUs,
 driver. `vulkan-tools` is optional but provides `vulkaninfo` for diagnostics.
 
 <img width="1861" height="1131" alt="image" src="https://github.com/user-attachments/assets/7706fbfe-2afb-4cd3-974c-8a973f39c937" />
+
+## Demo
+
+https://github.com/user-attachments/assets/cf085ef8-42c2-4d31-ad91-519156391cd9
+
+
+<img width="640" height="400" alt="demo" src="https://github.com/user-attachments/assets/0656b10e-492d-4ee6-ae4e-ae8a102b7f5a" />
