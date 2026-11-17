@@ -1,0 +1,17 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vulkan Pyramid</title>
+  <style>body{font-family:system-ui,sans-serif;line-height:1.6;max-width:850px;margin:3rem auto;padding:0 1.25rem;color:#24292f}img{max-width:100%;height:auto}pre{overflow:auto;background:#f6f8fa;padding:1rem;border-radius:6px}code{font-family:monospace}a{color:#0969da}</style>
+</head>
+<body>
+  <main>
+    {% capture readme %}{% include_relative README.md %}{% endcapture %}
+    {{ readme | markdownify }}
+  </main>
+</body>
+</html>
